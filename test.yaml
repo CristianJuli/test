@@ -5,7 +5,7 @@ database:
   port: 5432
 
 api_keys:
-  serviceA: abcdef1234567890
+  serviceA: abcdef12345567890
   serviceB: 0987654321fedcba
 
 smtp_settings:
